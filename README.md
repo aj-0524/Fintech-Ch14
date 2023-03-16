@@ -1,6 +1,6 @@
 ![An image for the header of the Repository](download.png)
 
-# *Machine Learning trading Bot*
+# *Machine Learning Trading Bot*
 
 The purpose of the Machine Learning Trading Bot file is to enhance the company's financial enhance the existing trading signals with machine learning algorithms that can adapt to new data. The goal is to give the company a competitive advantage to others.
 
