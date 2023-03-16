@@ -1,8 +1,8 @@
 ![An image for the header of the Repository](download.png)
 
-# *MercadoLibre Analysis*
+# *Machine Learning trading Bot*
 
-The purpose of the Machine Learning trading Bot file is to enhance the company's financial enhance the existing trading signals with machine learning algorithms that can adapt to new data. The goal is to give the company a competitive advantage to others.
+The purpose of the Machine Learning Trading Bot file is to enhance the company's financial enhance the existing trading signals with machine learning algorithms that can adapt to new data. The goal is to give the company a competitive advantage to others.
 
 
 
